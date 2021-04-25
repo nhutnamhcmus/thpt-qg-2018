@@ -4,7 +4,7 @@ Phân tích Điểm thi THPT 2018 nhằm điều tra vụ gian lận thi cử v�
 Installation/ Open Project
 ------------
 
-[![Open In Colab](https://colab.research.google.com/drive/1PR1EoQzeTsBfROO6stUTJhKitxRq3fxS?authuser=
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PR1EoQzeTsBfROO6stUTJhKitxRq3fxS?authuser=
 2#scrollTo=oIngs7mRO1tv) Open project with Google Colab 
 
 Contribute
